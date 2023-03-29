@@ -27,6 +27,10 @@ For details on how to use this sample as a template in Cloud Code, read the docu
 5. To stop the application, click the stop icon on the Debug Toolbar.
 
 ---
+## CSS Framework
+
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
 ## Getting Started with IntelliJ
 
 ### Run the app locally with the Cloud Run Emulator
